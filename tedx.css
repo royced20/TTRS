@@ -1,0 +1,30 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+
+.form-control:focus {
+    box-shadow: none;
+  }
+
+.even{
+  -webkit-text-fill-color: #EB0028;
+}
+
+.container{
+ display:grid;
+ width: 850px;
+ margin-bottom: 100px;
+}
+
+body {
+        padding: 25px;
+        background-color: white;
+        color: black;
+        font-size: 25px;
+      }
+/*
+.box{
+  border: 1px solid black;
+  height: 100px;
+  background-color:  rgb(228, 217, 217);
+}
+*/
